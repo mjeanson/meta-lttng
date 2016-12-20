@@ -1,5 +1,7 @@
 IMAGE_INSTALL += " \
+	liburcu \
 	babeltrace \
 	lttng-ust \
-	liburcu \
+	lttng-tools \
+	lttng-modules \
 	"
